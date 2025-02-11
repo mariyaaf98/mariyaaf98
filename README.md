@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable and efficie
 - 📦 **Order & Returns Management:** Order tracking, return requests, and status handling.
 
 ## 📫 Connect with Me
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Website or LinkedIn]
-- 🐦 Twitter: [Your Twitter Handle]
+- 📧 Email:mariyaaf98@gmail.com
+- 🌐 Portfolio: https://www.linkedin.com/in/mariya-a-f-8b0558269/
+
 
 Feel free to check out my repositories and contribute! 🚀
