@@ -1,30 +1,56 @@
-# Hi there! 👋
+# 👋 Hi, I'm Mariya A F
 
-Welcome to my GitHub profile! I'm passionate about building scalable and efficient applications using Django and modern web technologies. I enjoy working on e-commerce platforms, payment integrations, and backend optimizations.
+🎯 **Python Full Stack Developer**  
+Skilled in building scalable, responsive web apps using Python, Django, PostgreSQL, React, and modern tools. I enjoy writing clean, maintainable code and collaborating on real-world projects that solve meaningful problems.
 
-## 🔥 About Me
-- 💻 Full-stack developer with a strong focus on Django and Python.
-- 🛒 Experienced in building e-commerce applications with product variants, shopping carts, checkout, and payment gateway integration.
-- 🛠 Skilled in database management, query optimization, and model design.
-- 🎨 Love working with Bootstrap for responsive and professional UI designs.
-- 🚀 Enthusiastic about Virtual Reality (VR) and cutting-edge tech trends.
+---
 
-## 🚀 Tech Stack
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Django, Django REST Framework, Bootstrap, jQuery
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Tools & Platforms:** Git, GitHub, Docker, RacerPay (Payment Integration)
-- **Others:** API Development, Authentication Systems, Soft Deletion, Coupon Management
+## 🛠️ Tech Stack
 
-## 📌 Projects & Features
-- 🛍 **E-commerce Platform:** Product management, variant handling, cart & checkout, payment integration.
-- 🎟 **Coupon & Discount System:** Dynamic coupon generation, validation, and discount applications.
-- 🏦 **Wallet & Transactions:** User wallet system with credit/debit transactions and refund management.
-- 📦 **Order & Returns Management:** Order tracking, return requests, and status handling.
+- **Languages:** Python, JavaScript (ES6+), SQL
+- **Backend:** Django, DRF, Flask (basic)
+- **Frontend:** React.js, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Databases:** PostgreSQL, MongoDB
+- **Tools & DevOps:** Git, GitHub Actions, Postman, Nginx, Firebase, AWS EC2, GCP
+- **Testing & Templates:** PyTest, Jinja2, Django Templates
 
-## 📫 Connect with Me
-- 📧 Email:mariyaaf98@gmail.com
-- 🌐 Portfolio: https://www.linkedin.com/in/mariya-a-f-8b0558269/
+---
 
+## 🚀 Projects
 
-Feel free to check out my repositories and contribute! 🚀
+### 🔸 [Traditional Trends – Full Stack E-Commerce](https://github.com/mariyaaf98/TraditionalTrends/tree/main/TraditionalTrends)
+Full-featured e-commerce platform for traditional wear (like sarees).  
+✅ OTP login, admin/customer dashboards  
+✅ Razorpay payment & wallet refund system  
+✅ Order management, wishlist, filtering  
+**Tech:** Django, PostgreSQL, HTML/CSS, Razorpay, EC2
+
+---
+
+### 🔸 Netflix UI Clone
+Frontend-only Netflix-style interface with real-time category filtering.  
+**Tech:** React.js, Firebase, CSS3
+
+---
+
+### 🔸 OLX UI Clone
+Simple classified ads UI for posting and browsing.  
+**Tech:** React.js, Firebase
+
+---
+
+## 📊 GitHub Stats
+
+![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariyaaf98&show_icons=true&theme=default)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mariya-a-f-8b0558269/)
+- 💌 mariyaaf01@gmail.com
+- 💻 [GitHub](https://github.com/mariyaaf98)
+
+---
+
+> 💡 “Driven by curiosity, powered by code.”
