@@ -39,11 +39,6 @@ Simple classified ads UI for posting and browsing.
 
 ---
 
-## 📊 GitHub Stats
-
-![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariyaaf98&show_icons=true&theme=default)
-
----
 
 ## 📫 Let's Connect
 
