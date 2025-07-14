@@ -11,8 +11,8 @@ Skilled in building scalable, responsive web apps using Python, Django, PostgreS
 - **Backend:** Django, DRF, Flask (basic)
 - **Frontend:** React.js, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap
 - **Databases:** PostgreSQL, MongoDB
-- **Tools & DevOps:** Git, GitHub Actions, Postman, Nginx, Firebase, AWS EC2, GCP
-- **Testing & Templates:** PyTest, Jinja2, Django Templates
+- **Tools & DevOps:** Git, GitHub Actions, Postman, Nginx, Firebase, AWS EC2
+- **Testing & Templates:** Jinja2, Django Templates
 
 ---
 
